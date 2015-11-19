@@ -1,0 +1,6 @@
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\mailPilot-v11-master\mailPilot-v11\bin\CreateJS BoilerPlate.dll.config
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\mailPilot-v11-master\mailPilot-v11\bin\CreateJS BoilerPlate.dll
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\mailPilot-v11-master\mailPilot-v11\bin\CreateJS BoilerPlate.pdb
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\mailPilot-v11-master\mailPilot-v11\obj\Debug\mailPilot-v11.csprojResolveAssemblyReference.cache
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\mailPilot-v11-master\mailPilot-v11\obj\Debug\CreateJS BoilerPlate.dll
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\mailPilot-v11-master\mailPilot-v11\obj\Debug\CreateJS BoilerPlate.pdb

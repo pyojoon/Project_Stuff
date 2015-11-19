@@ -1,0 +1,5 @@
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Lesson4-master\COMP397-Lesson4\bin\COMP397-Lesson2.dll.config
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Lesson4-master\COMP397-Lesson4\bin\COMP397-Lesson2.dll
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Lesson4-master\COMP397-Lesson4\bin\COMP397-Lesson2.pdb
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Lesson4-master\COMP397-Lesson4\obj\Debug\COMP397-Lesson2.dll
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Lesson4-master\COMP397-Lesson4\obj\Debug\COMP397-Lesson2.pdb

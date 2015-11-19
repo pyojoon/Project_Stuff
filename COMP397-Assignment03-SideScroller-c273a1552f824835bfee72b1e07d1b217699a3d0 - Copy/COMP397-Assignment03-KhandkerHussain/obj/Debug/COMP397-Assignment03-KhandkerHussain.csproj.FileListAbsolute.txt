@@ -1,0 +1,12 @@
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0\COMP397-Assignment03-KhandkerHussain\bin\COMP397-Practice-Lesson02.dll.config
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0\COMP397-Assignment03-KhandkerHussain\bin\COMP397-Practice-Lesson02.dll
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0\COMP397-Assignment03-KhandkerHussain\bin\COMP397-Practice-Lesson02.pdb
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0\COMP397-Assignment03-KhandkerHussain\obj\Debug\COMP397-Assignment03-KhandkerHussain.csprojResolveAssemblyReference.cache
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0\COMP397-Assignment03-KhandkerHussain\obj\Debug\COMP397-Practice-Lesson02.dll
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0\COMP397-Assignment03-KhandkerHussain\obj\Debug\COMP397-Practice-Lesson02.pdb
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0 - Copy\COMP397-Assignment03-KhandkerHussain\bin\COMP397-Practice-Lesson02.dll.config
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0 - Copy\COMP397-Assignment03-KhandkerHussain\bin\COMP397-Practice-Lesson02.dll
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0 - Copy\COMP397-Assignment03-KhandkerHussain\bin\COMP397-Practice-Lesson02.pdb
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0 - Copy\COMP397-Assignment03-KhandkerHussain\obj\Debug\COMP397-Assignment03-KhandkerHussain.csprojResolveAssemblyReference.cache
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0 - Copy\COMP397-Assignment03-KhandkerHussain\obj\Debug\COMP397-Practice-Lesson02.dll
+C:\Users\Faim\Documents\Visual Studio 2013\Projects\COMP397-Assignment03-SideScroller-c273a1552f824835bfee72b1e07d1b217699a3d0 - Copy\COMP397-Assignment03-KhandkerHussain\obj\Debug\COMP397-Practice-Lesson02.pdb
